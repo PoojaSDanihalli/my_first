@@ -1,0 +1,22 @@
+Add-ons=%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:45.0.2,loop%40mozilla.org:1.1.14,langpack-en-ZA%40firefox.mozilla.org:45.0.2,langpack-en-GB%40firefox.mozilla.org:45.0.2
+TelemetryEnvironment={"build":{"applicationId":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","applicationName":"Firefox","architecture":"x86","buildId":"20160414065608","version":"45.0.2","vendor":"Mozilla","platformVersion":"45.0.2","xpcomAbi":"x86-gcc3","hotfixVersion":null},"partner":{"distributionId":"canonical","distributionVersion":"1.0","partnerId":null,"distributor":null,"distributorChannel":null,"partnerNames":[]},"system":{"memoryMB":1000,"virtualMaxMB":null,"cpu":{"count":1,"cores":1,"vendor":"GenuineIntel","family":6,"model":58,"stepping":9,"l2cacheKB":256,"l3cacheKB":3072,"speedMHz":null,"extensions":["hasMMX","hasSSE","hasSSE2","hasSSE3","hasSSSE3","hasSSE4_1","hasSSE4_2"]},"os":{"name":"Linux","version":"4.4.0-21-generic","locale":"en-IN"},"hdd":{"profile":{"model":null,"revision":null},"binary":{"model":null,"revision":null},"system":{"model":null,"revision":null}},"gfx":{"D2DEnabled":null,"DWriteEnabled":null,"adapters":[{"description":"VMware, Inc. -- Gallium 0.4 on llvmpipe (LLVM 3.8, 256 bits)","vendorID":"VMware, Inc.","deviceID":"Gallium 0.4 on llvmpipe (LLVM 3.8, 256 bits)","subsysID":null,"RAM":null,"driver":null,"driverVersion":"3.0 Mesa 11.2.0","driverDate":null,"GPUActive":true}],"monitors":[],"features":{"compositor":"basic"}}},"settings":{"blocklistEnabled":true,"e10sEnabled":false,"telemetryEnabled":false,"isInOptoutSample":false,"locale":"en-US","update":{"channel":"release","enabled":true,"autoDownload":true},"userPrefs":{"browser.cache.disk.capacity":358400,"browser.newtabpage.enhanced":true},"addonCompatibilityCheckEnabled":true,"isDefaultBrowser":false,"defaultSearchEngine":"google","defaultSearchEngineData":{"name":"Google","loadPath":"[distribution]/searchplugins/locale/en-US/google.xml","submissionURL":"https://www.google.com/search?client=ubuntu&channel=fs&q=&ie=utf-8&oe=utf-8"}},"profile":{"creationDate":18144},"addons":{"activeAddons":{"loop@mozilla.org":{"blocklisted":false,"description":"Web sharing for Firefox","name":"Firefox Hello Beta","userDisabled":false,"appDisabled":false,"version":"1.1.14","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16905,"updateDay":16905}},"theme":{"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","blocklisted":false,"description":"The default theme.","name":"Default","userDisabled":false,"appDisabled":false,"version":"45.0.2","scope":4,"foreignInstall":false,"hasBinaryComponents":false,"installDay":16905,"updateDay":16905},"activePlugins":[],"activeGMPlugins":{"gmp-gmpopenh264":{"version":null,"userDisabled":false,"applyBackgroundUpdates":1}},"activeExperiment":{},"persona":null}}
+StartupTime=1567759901
+SafeMode=0
+ProductName=Firefox
+Theme=classic/1.0
+Vendor=Mozilla
+InstallTime=1567680627
+ReleaseChannel=release
+Notes=OpenGL: VMware, Inc. -- Gallium 0.4 on llvmpipe (LLVM 3.8, 256 bits) -- 3.0 Mesa 11.2.0 -- texture_from_pixmap\n
+FramePoisonSize=4096
+Version=45.0.2
+FramePoisonBase=00000000f0dea000
+ServerURL=https://crash-reports.mozilla.com/submit?id={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&version=45.0.2&buildid=20160414065608
+useragent_locale=en-US
+EMCheckCompatibility=true
+BuildID=20160414065608
+ProductID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+URL=https://www.google.com/search?safe=active&client=ubuntu&hs=mAF&channel=fs&sxsrf=ACYBGNRPup_B0Dh5ICVAWjKA_MBbgUygng%3A1567767657505&ei=aTxyXeirHvDC3LUPxoacgA8&q=how+to+print+matrix+diagonals+in+c&oq=HOW+TO+&gs_l=psy-ab.3.0.35i39l2j0i20i263l2j0l6.1313.6116..8865...1.2..3.236.1300.7j2j2......0....1..gws-wiz.....10..0i71j0i131j35i362i39j0i67j0i131i67.gU4-53A8YJE
+AddonsShouldHaveBlockedE10s=0
+CrashTime=1567767672
+EventLoopNestingLevel=1
