@@ -121,3 +121,4 @@ QCoreApplication::postEvent: Unexpected null receiver
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No such interface 'com.canonical.dbusmenu' on object at path /org/ayatana/bamf/window/56623122"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No such interface 'com.canonical.dbusmenu' on object at path /org/ayatana/bamf/window/56623122"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No such interface 'com.canonical.dbusmenu' on object at path /org/ayatana/bamf/window/46162046"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No such interface 'com.canonical.dbusmenu' on object at path /org/ayatana/bamf/window/60817631"
