@@ -1,0 +1,6 @@
+Thu Sep  5 15:23:49 IST 2019 crash report /var/crash/_usr_bin_appstreamcli.0.crash detected
+appstreamcli
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Fri Sep  6 09:18:37 IST 2019 crash report /var/crash/_usr_bin_appstreamcli.0.crash detected
+appstreamcli
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.

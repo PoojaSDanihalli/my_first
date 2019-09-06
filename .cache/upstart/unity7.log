@@ -1,0 +1,324 @@
+ERROR 2019-09-06 10:13:29 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+
+(webbrowser-app:4822): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:4822): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:4822): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: No such file or directory
+file:///usr/share/webbrowser-app/webbrowser/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/DownloadHandler.qml:20:1: module "Ubuntu.DownloadManager" is not installed
+Input device added: "Power Button" "/dev/input/event0" QFlags(0x1)
+Input device added: "VMware VMware Virtual USB Mouse" "/dev/input/event4" QFlags(0x2)
+Input device added: "AT Translated Set 2 keyboard" "/dev/input/event1" QFlags(0x1|0x10)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event3" QFlags(0x2)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event2" QFlags(0x2)
+shm_open() failed: Permission denied
+[0906/104130:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[PERFORMANCE]: Last frame took 1035 ms to render.
+getrlimit(RLIMIT_NOFILE) failed
+[PERFORMANCE]: Last frame took 234 ms to render.
+QNetworkManagerInterface::QNetworkManagerInterface(QObject*) propsReply "An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.129\" (uid=1000 pid=4822 comm=\"webbrowser-app \") interface=\"org.freedesktop.DBus.Properties\" member=\"GetAll\" error name=\"(unset)\" requested_reply=\"0\" destination=\"org.freedesktop.NetworkManager\" (uid=0 pid=719 comm=\"/usr/sbin/NetworkManager --no-daemon \")"
+QNetworkManagerInterface::QNetworkManagerInterface(QObject*) nmReply "An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.129\" (uid=1000 pid=4822 comm=\"webbrowser-app \") interface=\"org.freedesktop.NetworkManager\" member=\"GetDevices\" error name=\"(unset)\" requested_reply=\"0\" destination=\"org.freedesktop.NetworkManager\" (uid=0 pid=719 comm=\"/usr/sbin/NetworkManager --no-daemon \")"
+"Object path cannot be empty"
+getrlimit(RLIMIT_NOFILE) failed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+qml: [JS] (:1) Uncaught SyntaxError: Illegal return statement
+ERROR 2019-09-06 10:43:48 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+
+(webbrowser-app:4916): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:4916): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:4916): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+Passing arguments to already running instance
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[PERFORMANCE]: Last frame took 89 ms to render.
+[PERFORMANCE]: Last frame took 196 ms to render.
+[PERFORMANCE]: Last frame took 87 ms to render.
+getrlimit(RLIMIT_NOFILE) failed
+[0906/105948:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.134" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+[0906/110003:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.135" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+[0906/110019:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.136" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+[0906/110036:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.137" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+[0906/110056:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.138" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+[0906/112312:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.139" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://pastebin.com/adserver/160x600_custom_safe.php:0) XMLHttpRequest cannot load https://dmx.districtm.io/b/v1. Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://pastebin.com' is therefore not allowed access. The response had HTTP status code 429.
+qml: [JS] (https://pastebin.com/adserver/728x90_custom_safe.php:0) XMLHttpRequest cannot load https://dmx.districtm.io/b/v1. Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://pastebin.com' is therefore not allowed access. The response had HTTP status code 429.
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+[0906/112345:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.140" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+[0906/112358:ERROR:logging.h(813)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.141" (uid=1000 pid=4822 comm="webbrowser-app ") interface="org.freedesktop.UPower" member="EnumerateDevices" error name="(unset)" requested_reply="0" destination="org.freedesktop.UPower" (uid=0 pid=1254 comm="/usr/lib/upower/upowerd ")
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Send pageview now
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (:6) Uncaught TypeError: Cannot read property 'appendChild' of null
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) dom ready!
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) topFrame: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) params: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Cookie enabled, set cookie
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) session: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) pageview have been sent or scheduled
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) formatedPageview: 
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://d2na2p72vtqyok.cloudfront.net/client-embed/024e069d-525f-46a7-911a-7c59471d8c75.js:1) Uncaught TypeError: _this.integrationWindow.document.head.append is not a function
+qml: [JS] (https://pastebin.com/adserver/728x90_custom_safe.php:0) XMLHttpRequest cannot load https://g2.gumgum.com/hbid/imp?si=18045&pi=3&gdprApplies=true&gdprConsent=null&vw=735&vh=496&sw=800&sh=600&pu=https%3A%2F%2Fpastebin.com%2F&ce=true&dpr=1&jcsi=%5Bobject%20Object%5D&. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://pastebin.com' is therefore not allowed access.
+qml: [JS] (https://pastebin.com/adserver/160x600_custom_safe.php:0) XMLHttpRequest cannot load https://g2.gumgum.com/hbid/imp?si=18030&pi=3&gdprApplies=true&gdprConsent=null&vw=735&vh=496&sw=800&sh=600&pu=https%3A%2F%2Fpastebin.com%2F&ce=true&dpr=1&jcsi=%5Bobject%20Object%5D&. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://pastebin.com' is therefore not allowed access.
+ERROR 2019-09-06 11:28:27 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 11:35:24 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 11:51:50 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+
+(webbrowser-app:6016): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:6016): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:6016): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+Passing arguments to already running instance
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[PERFORMANCE]: Last frame took 420 ms to render.
+[PERFORMANCE]: Last frame took 165 ms to render.
+getrlimit(RLIMIT_NOFILE) failed
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/github-bootstrap-5d33ad3d.js:1) Uncaught SyntaxError: Unexpected identifier
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/octocaptcha-54bb2af9.js:1) Uncaught (in promise) Error: evaluating module ./octocaptcha.js: could not resolve ./frameworks.js
+[PERFORMANCE]: Last frame took 40 ms to render.
+[PERFORMANCE]: Last frame took 34 ms to render.
+qml: [JS] (https://www.chatcrypt.com/assets/scripts/bundle_chat.js?v=41:5) WebSocket connection to 'wss://www.chatcrypt.com/wss/' failed: Error during WebSocket handshake: Unexpected response code: 502
+[PERFORMANCE]: Last frame took 209 ms to render.
+
+(webbrowser-app:6488): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:6488): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:6488): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: No such file or directory
+file:///usr/share/webbrowser-app/webbrowser/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/DownloadHandler.qml:20:1: module "Ubuntu.DownloadManager" is not installed
+Input device added: "Power Button" "/dev/input/event0" QFlags(0x1)
+Input device added: "VMware VMware Virtual USB Mouse" "/dev/input/event4" QFlags(0x2)
+Input device added: "AT Translated Set 2 keyboard" "/dev/input/event1" QFlags(0x1|0x10)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event3" QFlags(0x2)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event2" QFlags(0x2)
+shm_open() failed: Permission denied
+[0906/130128:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/github-bootstrap-5d33ad3d.js:1) Uncaught SyntaxError: Unexpected identifier
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+ERROR 2019-09-06 13:01:37 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+qml: [JS] (https://github.githubassets.com/assets/octocaptcha-54bb2af9.js:1) Uncaught (in promise) Error: evaluating module ./octocaptcha.js: could not resolve ./frameworks.js
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+[PERFORMANCE]: Last frame took 182 ms to render.
+getrlimit(RLIMIT_NOFILE) failed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+
+(webbrowser-app:6579): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:6579): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:6579): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: No such file or directory
+file:///usr/share/webbrowser-app/webbrowser/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/DownloadHandler.qml:20:1: module "Ubuntu.DownloadManager" is not installed
+Input device added: "Power Button" "/dev/input/event0" QFlags(0x1)
+Input device added: "VMware VMware Virtual USB Mouse" "/dev/input/event4" QFlags(0x2)
+Input device added: "AT Translated Set 2 keyboard" "/dev/input/event1" QFlags(0x1|0x10)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event3" QFlags(0x2)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event2" QFlags(0x2)
+shm_open() failed: Permission denied
+[0906/130238:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
+qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[PERFORMANCE]: Last frame took 197 ms to render.
+[PERFORMANCE]: Last frame took 401 ms to render.
+[PERFORMANCE]: Last frame took 170 ms to render.
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[PERFORMANCE]: Last frame took 542 ms to render.
+getrlimit(RLIMIT_NOFILE) failed
+[PERFORMANCE]: Last frame took 209 ms to render.
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/github-bootstrap-5d33ad3d.js:1) Uncaught SyntaxError: Unexpected identifier
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/octocaptcha-54bb2af9.js:1) Uncaught (in promise) Error: evaluating module ./octocaptcha.js: could not resolve ./frameworks.js
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/github-bootstrap-5d33ad3d.js:1) Uncaught SyntaxError: Unexpected identifier
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/github-bootstrap-5d33ad3d.js:1) Uncaught SyntaxError: Unexpected identifier
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/github-bootstrap-5d33ad3d.js:1) Uncaught SyntaxError: Unexpected identifier
+qml: [JS] (https://github.githubassets.com/assets/frameworks-7cd2951d.js:1) Uncaught SyntaxError: Unexpected token function
+qml: [JS] (https://github.githubassets.com/assets/octocaptcha-54bb2af9.js:1) Uncaught (in promise) Error: evaluating module ./octocaptcha.js: could not resolve ./frameworks.js
