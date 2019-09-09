@@ -1,3 +1,2 @@
 openConnection: connect: No such file or directory
 cannot connect to brltty at :0
-upstart: update-notifier-crash (/var/crash/_usr_bin_appstreamcli.0.crash) main process (4917) terminated with status 1
