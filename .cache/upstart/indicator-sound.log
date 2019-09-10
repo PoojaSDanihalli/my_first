@@ -1,0 +1,6 @@
+indicator-sound-Message: service.vala:215: scroll: -1
+
+(process:1848): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.647993 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+indicator-sound-Message: service.vala:215: scroll: -1
+
+(process:1848): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0.587967 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'

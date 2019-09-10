@@ -1,0 +1,4 @@
+2019/09/09-14:29:04.723 2dfa Reusing MANIFEST leveldb/MANIFEST-000001
+2019/09/09-17:30:00.690 3465 Level-0 table #5: started
+2019/09/09-17:30:00.700 3465 Level-0 table #5: 132870 bytes OK
+2019/09/09-17:30:00.711 3465 Delete type=0 #3
