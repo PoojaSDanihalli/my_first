@@ -1,6 +1,6 @@
-2019/09/10-09:29:37.833 90c Reusing MANIFEST leveldb/MANIFEST-000001
-2019/09/10-09:29:37.834 90c Recovering log #4
-2019/09/10-09:29:37.848 90c Reusing old log leveldb/000004.log 
-2019/09/10-12:01:54.616 194c Level-0 table #8: started
-2019/09/10-12:01:54.631 194c Level-0 table #8: 15675 bytes OK
-2019/09/10-12:01:54.659 194c Delete type=0 #4
+2019/09/13-15:17:31.013 14d2 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/09/13-15:17:31.013 14d2 Recovering log #12
+2019/09/13-15:17:31.102 14d2 Reusing old log leveldb/000012.log 
+2019/09/13-16:28:04.065 16dd Level-0 table #16: started
+2019/09/13-16:28:04.070 16dd Level-0 table #16: 16651 bytes OK
+2019/09/13-16:28:04.072 16dd Delete type=0 #12

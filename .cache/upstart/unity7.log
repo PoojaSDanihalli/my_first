@@ -1,42 +1,6 @@
+WARN  2019-09-13 09:42:26 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2019-09-13 14:58:59 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-13 15:17:13 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
 ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:121] Can't parse message of type "in_memory_url_index.InMemoryURLIndexCacheItem" because it is missing required fields: (cannot determine missing fields for lite message)
-[2297:2297:0910/095554.376785:ERROR:gaia_auth_fetcher.cc(77)] Missing ID token on refresh token fetch response.
-ERROR 2019-09-10 10:52:19 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-
-** (unity-webapps-runner:5877): WARNING **: Could not get a proper accuracy from Geoclue (NONE)
-** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
-Invalid webapp webapp definition: homepage not found or fails predicate isString
-Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
-qml: Loading webview on /home/student/.local/share/ubuntu-amazon-default
-Invalid webapp webapp definition: homepage not found or fails predicate isString
-Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
-QQmlExpression: Expression file:///usr/share/webbrowser-app/webcontainer/WebApp.qml:272:25 depends on non-NOTIFYable properties:
-    unity::action::qml::ActionManager::globalContext
-[0910/105259:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
-qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
-qml: Start browsing
-file:///usr/share/webbrowser-app/webcontainer/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
-file:///usr/share/webbrowser-app/webcontainer/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
-file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
-file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
-file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
-file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
-file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
-qml: Loaded 5 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
-getrlimit(RLIMIT_NOFILE) failed
-[PERFORMANCE]: Last frame took 332 ms to render.
-[PERFORMANCE]: Last frame took 38 ms to render.
-qml: [JS] (:0) Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.
-[PERFORMANCE]: Last frame took 51 ms to render.
-ERROR 2019-09-10 10:57:54 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 11:43:57 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 11:45:09 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 12:02:55 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 12:04:39 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 12:16:25 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 12:17:01 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-[2341:7698:0910/135237.087076:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for www.glasshousesalon.co.uk failed err=-8181
-[2341:2363:0910/135237.093633:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -201
-ERROR 2019-09-10 14:06:04 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 15:23:40 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-10 16:32:45 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+[5344:5351:0913/162818.764791:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -200
+[5344:5351:0913/162818.782279:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -200
