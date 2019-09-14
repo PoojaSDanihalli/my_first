@@ -1,3 +1,9 @@
 2019/09/14-11:07:32.915 12f4 Reusing MANIFEST leveldb/MANIFEST-000001
 2019/09/14-11:07:32.916 12f4 Recovering log #18
 2019/09/14-11:07:32.926 12f4 Reusing old log leveldb/000018.log 
+2019/09/14-14:09:27.370 1acb Level-0 table #23: started
+2019/09/14-14:09:27.386 1acb Level-0 table #23: 13809 bytes OK
+2019/09/14-14:09:27.416 1acb Delete type=0 #18
+2019/09/14-16:18:27.346 1fc6 Level-0 table #25: started
+2019/09/14-16:18:27.367 1fc6 Level-0 table #25: 23841 bytes OK
+2019/09/14-16:18:27.398 1fc6 Delete type=0 #22
