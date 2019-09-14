@@ -266,14 +266,14 @@
    "NammqMJzT2J2lqx85SRpX6z9IAZ/rcWNNlySUgI86h0=": {
       "expect_ct": {
          "expect_ct_enforce": false,
-         "expect_ct_expiry": 1569066142.692316,
-         "expect_ct_observed": 1568461342.692316,
+         "expect_ct_expiry": 1569066233.075179,
+         "expect_ct_observed": 1568461433.075179,
          "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
       },
-      "expiry": 1599997342.692292,
+      "expiry": 1599997433.07516,
       "mode": "force-https",
       "sts_include_subdomains": true,
-      "sts_observed": 1568461342.692297
+      "sts_observed": 1568461433.075166
    },
    "NoXeGEga+ApGceEiNwjuCBj/ofQIY949QNnH7lsEYHU=": {
       "expect_ct": {
