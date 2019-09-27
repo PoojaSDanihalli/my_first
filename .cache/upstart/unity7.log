@@ -1,6 +1,9 @@
+ERROR 2019-09-27 11:38:51 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+WARN  2019-09-27 11:52:39 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
 ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[2354:2376:0916/092554.813845:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for ebdr3.com failed err=-8181
-[2354:2367:0916/092555.483684:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -201
-ERROR 2019-09-16 10:06:49 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-16 12:00:19 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-ERROR 2019-09-16 12:23:30 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 12:00:37 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 12:00:59 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 12:01:03 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 14:29:08 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-27 14:39:16 unitysource != null <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
+ERROR 2019-09-27 15:45:12 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.

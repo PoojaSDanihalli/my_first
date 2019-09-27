@@ -535,7 +535,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/ll.c" added="2019-09-10T04:41:41Z" modified="2019-09-10T06:33:19Z" visited="2019-09-10T04:41:41Z">
+  <bookmark href="file:///home/student/ll.c" added="2019-09-10T04:41:41Z" modified="2019-09-24T11:49:09Z" visited="2019-09-10T04:41:41Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-csrc"/>
@@ -543,7 +543,9 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-10T06:33:19Z" count="32"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-24T11:14:47Z" count="34"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2019-09-24T11:14:45Z" count="2"/>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2019-09-24T11:49:09Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -561,7 +563,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/llall.c" added="2019-09-10T06:15:41Z" modified="2019-09-10T06:19:26Z" visited="2019-09-10T06:15:42Z">
+  <bookmark href="file:///home/student/llall.c" added="2019-09-10T06:15:41Z" modified="2019-09-24T10:37:53Z" visited="2019-09-10T06:15:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-csrc"/>
@@ -569,12 +571,12 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-10T06:19:26Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-24T10:37:53Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/llex.c" added="2019-09-10T06:33:43Z" modified="2019-09-10T06:34:44Z" visited="2019-09-10T06:33:44Z">
+  <bookmark href="file:///home/student/llex.c" added="2019-09-10T06:33:43Z" modified="2019-09-24T10:37:35Z" visited="2019-09-10T06:33:44Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-csrc"/>
@@ -582,7 +584,8 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-10T06:34:44Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-24T10:37:35Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2019-09-24T10:37:34Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1499,6 +1502,149 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-16T09:47:39Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/OS_Concepts/hello.c" added="2019-09-19T06:13:36Z" modified="2019-09-19T07:01:12Z" visited="2019-09-19T06:13:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-19T07:01:12Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/OS_Concepts/processMap.c" added="2019-09-19T09:03:44Z" modified="2019-09-19T09:56:10Z" visited="2019-09-19T09:03:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-19T09:56:10Z" count="27"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/OS_Concepts/syscallTrace.c" added="2019-09-19T10:47:45Z" modified="2019-09-19T11:24:05Z" visited="2019-09-19T10:47:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-19T11:24:05Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/OS_Concepts/myapp.c" added="2019-09-19T11:23:57Z" modified="2019-09-19T11:23:57Z" visited="2019-09-19T11:23:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-19T11:23:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/OS_Concepts/activity.c" added="2019-09-19T11:28:18Z" modified="2019-09-19T11:46:28Z" visited="2019-09-19T11:28:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-19T11:46:28Z" count="30"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.bashrc" added="2019-09-27T04:50:01Z" modified="2019-09-27T06:50:52Z" visited="2019-09-27T04:50:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T06:50:52Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/threads.c" added="2019-09-27T08:37:59Z" modified="2019-09-27T08:55:26Z" visited="2019-09-27T08:38:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T08:55:26Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/threads1.c" added="2019-09-27T08:55:05Z" modified="2019-09-27T09:36:49Z" visited="2019-09-27T08:55:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T09:36:49Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/threadmax.c" added="2019-09-27T09:34:23Z" modified="2019-09-27T09:40:51Z" visited="2019-09-27T09:34:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T09:40:51Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/threadmul.c" added="2019-09-27T10:15:20Z" modified="2019-09-27T11:29:51Z" visited="2019-09-27T10:15:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T11:29:51Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/threadmul100.c" added="2019-09-27T11:30:16Z" modified="2019-09-27T11:30:16Z" visited="2019-09-27T11:30:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T11:30:16Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

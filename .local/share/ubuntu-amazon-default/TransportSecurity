@@ -19,12 +19,12 @@
    },
    "Pmpshe8FmLItRBaXmv3AYcuBxQ9AWFqi9TG/RWudUC0=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1599629079.767944,
+      "expiry": 1600409282.465468,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 0.0,
       "sts_include_subdomains": true,
-      "sts_observed": 1568093079.767951
+      "sts_observed": 1568873282.465471
    },
    "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
       "dynamic_spki_hashes_expiry": 0.0,

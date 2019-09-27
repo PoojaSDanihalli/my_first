@@ -1,2 +1,0 @@
-
-(process:1849): indicator-sound-CRITICAL **: media_player_list_mpris_insert: assertion 'desktop_id != NULL' failed
