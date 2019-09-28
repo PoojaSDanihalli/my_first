@@ -1,0 +1,4 @@
+[Comparison]
+type = File
+paths = /home/student/Desktop/linuxcomm/fork4.c;/home/student/Desktop/linuxcomm/fork5.c
+
