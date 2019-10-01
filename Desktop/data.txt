@@ -1,0 +1,30 @@
+GM poo ltts 7.4
+GM pooja ltts 74
+GM poo lt 87 96 54 mark1+mark2+mark3/3
+GM poo ltts 54 78 98 54+78+98/3
+GM poo ltts 98 78 76 98+78+76/3
+GM pooja ltts 98 99 97 98
+GM poojasd l&t 98 54 76 76
+GM poo lt 95 67 84 82
+GM poo lt 67 87 98 84
+GM poo lt 76 56 98 76
+GM poo lt 98 99 97 98
+GM poo ltts 98 99 100 99
+GM pooja ltts 98 99 97 98
+GM poo lt 98 98 99 98
+GM poo lt 98 99 87 94
+GM poo lt 98 78 87 87 SC
+GM pooja lt 98 87 99 94 SC
+GM poo lt 98 99 98 98 SC
+GM poo lt 98 99 97 98 Distinction
+GM pooja ltts 45 67 89 67 FC
+GM deeps ltts 65 34 56 51 SC
+GM nish ltts 76 54 45 58 SC
+GM poo abb 87 65 45 65 FC
+GM p e 5  43 16 SC
+GM n y 6 4 6 5 SC
+GM pooja lt 65 45 33 47 SC
+GM deeps nb 43 23 44 36 SC
+GM nish 23 45 65 44 51 SC
+GM aish df 45 67 45 52 SC
+GM praga rt 56 34 56 48 SC

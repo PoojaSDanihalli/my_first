@@ -1,0 +1,1 @@
+cmd_/home/student/Desktop/kerprog/driver.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/Desktop/kerprog/driver.ko /home/student/Desktop/kerprog/driver.o /home/student/Desktop/kerprog/driver.mod.o

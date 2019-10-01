@@ -1,0 +1,1 @@
+cmd_/home/student/Desktop/kernel/kernel.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/Desktop/kernel/kernel.ko /home/student/Desktop/kernel/kernel.o /home/student/Desktop/kernel/kernel.mod.o
