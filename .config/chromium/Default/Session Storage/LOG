@@ -1,21 +1,6 @@
-2019/09/28-14:22:57.574 1c55 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/09/28-14:22:57.575 1c55 Recovering log #51
-2019/09/28-14:22:57.595 1c55 Reusing old log Session Storage/000051.log 
-2019/09/28-14:23:03.602 1c5d Level-0 table #55: started
-2019/09/28-14:23:03.616 1c5d Level-0 table #55: 22891 bytes OK
-2019/09/28-14:23:03.617 1c5d Delete type=0 #51
-2019/09/28-14:29:15.792 1d50 Level-0 table #57: started
-2019/09/28-14:29:15.796 1d50 Level-0 table #57: 15851 bytes OK
-2019/09/28-14:29:15.799 1d50 Delete type=0 #54
-2019/09/28-15:26:03.406 2033 Level-0 table #59: started
-2019/09/28-15:26:03.410 2033 Level-0 table #59: 17009 bytes OK
-2019/09/28-15:26:03.413 2033 Delete type=0 #56
-2019/09/28-15:26:03.413 2032 Compacting 4@0 + 1@1 files
-2019/09/28-15:26:03.448 2032 Generated table #60@0: 677 keys, 68760 bytes
-2019/09/28-15:26:03.448 2032 Compacted 4@0 + 1@1 files => 68760 bytes
-2019/09/28-15:26:03.450 2032 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/09/28-15:26:03.451 2032 Delete type=2 #55
-2019/09/28-15:26:03.451 2032 Delete type=2 #50
-2019/09/28-15:26:03.451 2032 Delete type=2 #59
-2019/09/28-15:26:03.451 2032 Delete type=2 #57
-2019/09/28-15:26:03.452 2032 Delete type=2 #52
+2019/10/01-11:51:12.905 ea7 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/10/01-11:51:13.011 ea7 Recovering log #62
+2019/10/01-11:51:13.092 ea7 Reusing old log Session Storage/000062.log 
+2019/10/01-11:52:43.211 ea5 Level-0 table #66: started
+2019/10/01-11:52:43.216 ea5 Level-0 table #66: 27850 bytes OK
+2019/10/01-11:52:43.220 ea5 Delete type=0 #62

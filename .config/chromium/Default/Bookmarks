@@ -1,0 +1,48 @@
+{
+   "checksum": "686bfbbc5efcd82f433db8a35b80a347",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13214318653040252",
+            "id": "5",
+            "name": "Adding a Hello World System Call to Linux Kernel - Anubhav Shrimal - Medium",
+            "type": "url",
+            "url": "https://medium.com/anubhav-shrimal/adding-a-hello-world-system-call-to-linux-kernel-dad32875872"
+         }, {
+            "date_added": "13214319235399734",
+            "id": "6",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/lettergram/IPC-examples/blob/master/pipe/pipe.c"
+         }, {
+            "date_added": "13214319307629507",
+            "id": "7",
+            "name": "IPC-examples/semaphore.cpp at master · lettergram/IPC-examples · GitHub",
+            "type": "url",
+            "url": "https://github.com/lettergram/IPC-examples/blob/master/semaphore/semaphore.cpp"
+         } ],
+         "date_added": "13214293013472868",
+         "date_modified": "13214319307629507",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13214293013472879",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13214293013472881",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
