@@ -1,3 +1,6 @@
-2019/10/01-11:51:10.748 e6f Reusing MANIFEST /home/student/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/10/01-11:51:10.748 e6f Recovering log #3
-2019/10/01-11:51:10.749 e6f Reusing old log /home/student/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2019/10/04-16:10:31.957 2d22 Reusing MANIFEST /home/student/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/10/04-16:10:32.037 2d22 Recovering log #3
+2019/10/04-16:10:32.038 2d22 Reusing old log /home/student/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2019/10/04-17:23:04.810 35e6 Level-0 table #5: started
+2019/10/04-17:23:04.849 35e6 Level-0 table #5: 311591 bytes OK
+2019/10/04-17:23:04.875 35e6 Delete type=0 #3

@@ -1,6 +1,27 @@
-WARN  2019-10-01 11:50:45 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2019-10-04 16:10:12 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2019-10-04 16:10:32 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
 ATTENTION: default value of option force_s3tc_enable overridden by environment.
-ERROR 2019-10-01 14:33:41 unitysource != null <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
-ERROR 2019-10-01 15:14:42 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
-[3671:3689:1001/152421.257186:ERROR:browser_process_sub_thread.cc(203)] Waited 17 ms for network service
-ERROR 2019-10-01 15:26:50 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+Opening in existing browser session.
+Fontconfig error: Cannot load default config file
+ERROR 2019-10-04 16:29:09 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-10-04 16:36:42 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+
+(nautilus:13720): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13720): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13720): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:13720): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:13720): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nautilus:13735): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13735): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13735): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:13735): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:13735): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
